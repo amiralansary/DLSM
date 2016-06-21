@@ -22,6 +22,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 
 ### Important Links
 + [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision#understanding-cnn)
++ [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 + [Deeplearning.net](http://deeplearning.net/)
 + [Deep learning nature article](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 
@@ -46,3 +47,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Ian Goodfellow, Yoshua Bengio and Aaron Courville textbook](http://www.deeplearningbook.org/)
 + [Microsoft textbook](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 + [Michael Nielsen's online textbook](http://neuralnetworksanddeeplearning.com/)
+
+### Blogs
++ [Hacker News for Data Science](http://www.datatau.com/news)
++ [i am trusk](http://iamtrask.github.io/)
