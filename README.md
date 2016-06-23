@@ -16,6 +16,9 @@ This is a group of researchers study deep learning for computer vision, medical 
 	* Image classification [[notes]](http://cs231n.github.io/classification/)
 	* Linear classification [[notes]](http://cs231n.github.io/linear-classify/)
 
+### Week-02
+* [Optimization, stochastic gradient descent](http://cs231n.github.io/optimization-1)
+* [Assignment #1 (kNN/SVM)](http://cs231n.github.io/assignments2016/assignment1/)
 
 
 ## Useful Links for Deep Learning 
