@@ -1,7 +1,7 @@
 # DLSG
 Deep Learning Study Group
 
-Memebers - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](), [Mohamed Elmikaty](), [Amir Alansary](https://github.com/amiralansary)
+Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](), [Mohamed Elmikaty](), [Amir Alansary](https://github.com/amiralansary)
 
 This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
 
