@@ -40,12 +40,14 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Tensorflow](https://www.tensorflow.org/versions/r0.9/tutorials/index.html)
 
 ### Courses
-+ [Stanford course](http://cs231n.stanford.edu/syllabus.html)
-+ [Hinton's course](http://www.cs.toronto.edu/~hinton/csc2535/index.html)
++ [Stanford](http://cs231n.stanford.edu/syllabus.html)
++ [Hinton](http://www.cs.toronto.edu/~hinton/csc2535/index.html)
++ [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
++ [Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 
 ### Videos
-+ [Hugo Larochelle's Youtube lectures](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-+ [Nando de Freitas's Youtube lectures](https://www.youtube.com/playlist?list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
++ [Hugo Larochelle's Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
++ [Nando de Freitas's Youtube](https://www.youtube.com/playlist?list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
 
 ### Textbooks
 + [Ian Goodfellow, Yoshua Bengio and Aaron Courville textbook](http://www.deeplearningbook.org/)
