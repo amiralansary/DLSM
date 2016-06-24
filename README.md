@@ -12,7 +12,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 ### Week-01
 * [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf)
-* Image classification, k-nearest neighbor, and linear classification I [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf)
+* Image classification, k-nearest neighbor, and linear classification [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf)
 	* Image classification [[notes]](http://cs231n.github.io/classification/)
 	* Linear classification [[notes]](http://cs231n.github.io/linear-classify/)
 
