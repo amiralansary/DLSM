@@ -1,7 +1,7 @@
 # DLSG
 Deep Learning Study Group
 
-Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](), [Mohamed Elmikaty](), [Amir Alansary](https://github.com/amiralansary)
+Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Amir Alansary](https://github.com/amiralansary)
 
 This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
 
@@ -10,13 +10,13 @@ This is a group of researchers study deep learning for computer vision, medical 
 ## Scheduled Meetings
 
 ### Week-01
-* [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf)
 * Image classification, k-nearest neighbor, and linear classification [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf)
 	* Image classification [[notes]](http://cs231n.github.io/classification/)
 	* Linear classification [[notes]](http://cs231n.github.io/linear-classify/)
 
 ### Week-02
+* [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1)
 * Assignment #1 (kNN/SVM) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 
