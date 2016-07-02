@@ -10,15 +10,22 @@ This is a group of researchers study deep learning for computer vision, medical 
 ## Scheduled Meetings
 
 ### Week-01
-* Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf)
-* Image classification, k-nearest neighbor, and linear classification [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf)
+* Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf) [[video]](https://youtu.be/2uiulzZxmGg?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
+* Image classification, k-nearest neighbor, and linear classification [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf) [[video]](https://youtu.be/ngXbD21b4qk?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 	* Image classification [[notes]](http://cs231n.github.io/classification/)
 	* Linear classification [[notes]](http://cs231n.github.io/linear-classify/)
 
 ### Week-02
+* Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1) [[video]](https://youtu.be/i1gGsE66b5s?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
+
+### Week-03
+* Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
+* Training Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
+* [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
+
+### Week-04
 * [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-* Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1)
-* Assignment #1 (kNN/SVM) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
+* Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 
 
 ## Useful Links for Deep Learning 
