@@ -24,7 +24,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 * [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ### Week-04
-* [python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+* Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
 * Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 
 
