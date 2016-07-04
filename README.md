@@ -26,6 +26,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 ### Week-04
 * Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
 * Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
+* [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 
 
 ## Useful Links for Deep Learning 
