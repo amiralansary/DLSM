@@ -40,6 +40,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 
 ### Libraries
 + [Software links](http://deeplearning.net/software_links/)
++ [Pyimagesearch](http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/)
 
 ### Tutorials
 + [Theano](http://deeplearning.net/software/theano/tutorial/)
