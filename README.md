@@ -58,6 +58,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 ### Videos
 + [Hugo Larochelle's Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 + [Nando de Freitas's Youtube](https://www.youtube.com/playlist?list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
++ [CS231 Winter 2016 All Youtube](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ### Textbooks
 + [Ian Goodfellow, Yoshua Bengio and Aaron Courville textbook](http://www.deeplearningbook.org/)
