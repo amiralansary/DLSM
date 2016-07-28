@@ -29,6 +29,9 @@ This is a group of researchers study deep learning for computer vision, medical 
 * [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
+### Week-05
+* Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
+
 
 ## Useful Links for Deep Learning 
 
