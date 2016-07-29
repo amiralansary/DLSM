@@ -20,7 +20,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 
 ### Week-03
 * Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
-* Training Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
+* Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
 * [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ### Week-04
@@ -30,8 +30,12 @@ This is a group of researchers study deep learning for computer vision, medical 
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
 ### Week-05
-* Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
+* Neural network part-II [[link]](http://cs231n.github.io/neural-networks-2/)
+* Neural network part-III [[link]](http://cs231n.github.io/neural-networks-3/)
 
+### Week-06
+* Two-Layer Neural Network [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
+* Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
 
 ## Useful Links for Deep Learning 
 
