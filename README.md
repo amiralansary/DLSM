@@ -62,6 +62,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 + [Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 + [Udacity Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
++ [Bargava from Cisco systems](https://github.com/rouseguy/scipyUS2016_dl-image)
 
 ### Videos
 + [Hugo Larochelle's Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
