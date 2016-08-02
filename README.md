@@ -78,3 +78,4 @@ This is a group of researchers study deep learning for computer vision, medical 
 ### Blogs
 + [Hacker News for Data Science](http://www.datatau.com/news)
 + [i am trusk](http://iamtrask.github.io/)
++ [Colin Morris](https://colinmorris.github.io/)
