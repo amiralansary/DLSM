@@ -55,6 +55,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Lasagne](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 + [Caffe](http://caffe.berkeleyvision.org/tutorial/)
 + [Tensorflow](https://www.tensorflow.org/versions/r0.9/tutorials/index.html)
++ [Keras](https://github.com/jocicmarko/ultrasound-nerve-segmentation) Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras 
 
 ### Courses
 + [Stanford](http://cs231n.stanford.edu/syllabus.html)
