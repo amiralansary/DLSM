@@ -30,8 +30,8 @@ This is a group of researchers study deep learning for computer vision, medical 
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
 ### Week-05
-* Neural network part-II [[notes]](http://cs231n.github.io/neural-networks-2/)
-* Neural network part-III [[notes]](http://cs231n.github.io/neural-networks-3/)
+* Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/)
+* Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/)
 
 ### Week-06
 * Two-Layer Neural Network [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
