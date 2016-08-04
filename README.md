@@ -19,15 +19,15 @@ This is a group of researchers study deep learning for computer vision, medical 
 * Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1) [[video]](https://youtu.be/i1gGsE66b5s?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 
 ### Week-03
-* Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
-* Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
-* [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
-
-### Week-04
 * Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
 * Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 * [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
+
+### Week-04
+* Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
+* Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
+* [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ### Week-05
 * Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/)
