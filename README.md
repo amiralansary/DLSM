@@ -30,8 +30,8 @@ This is a group of researchers study deep learning for computer vision, medical 
 * [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
 ### Week-05
-* Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/)
-* Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/)
+* Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+* Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ### Week-06
 * Two-Layer Neural Network [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
