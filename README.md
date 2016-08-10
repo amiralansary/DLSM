@@ -20,7 +20,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 
 ### Week-03
 * Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
-* Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
+* Assignment #1 (kNN/SVM/Softmax) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 * [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
@@ -34,8 +34,16 @@ This is a group of researchers study deep learning for computer vision, medical 
 * Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ### Week-06
-* Two-Layer Neural Network [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
+* Assignment #1 (2-Layer Net) [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
 * Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
+
+### Week-07
+* Assignment #2 (Fully-connected Neural Network/Batch Normalization/Dropout) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
+
+### Week-08
+* Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
+* Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
+
 
 ## Useful Links for Deep Learning 
 
