@@ -1,7 +1,7 @@
 # DLSG
 Deep Learning Study Group
 
-Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Amir Alansary](https://github.com/amiralansary)
+Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Enzo Ferrante](https://github.com/eferrante), [Amir Alansary](https://github.com/amiralansary)
 
 This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
 
@@ -19,18 +19,30 @@ This is a group of researchers study deep learning for computer vision, medical 
 * Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1) [[video]](https://youtu.be/i1gGsE66b5s?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 
 ### Week-03
-* Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
-* Training Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
-* [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
-
-### Week-04
 * Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
-* Assignment #1 (kNN/SVM/Softmax/2-Layer Net) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
+* Assignment #1 (kNN/SVM/Softmax) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 * [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
+### Week-04
+* Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
+* Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
+* [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
+
 ### Week-05
+* Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+* Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+
+### Week-06
+* Assignment #1 (2-Layer Net) [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
 * Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
+
+### Week-07
+* Assignment #2 (Fully-connected Neural Network/Batch Normalization/Dropout) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
+
+### Week-08
+* Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
+* Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
 
 
 ## Useful Links for Deep Learning 
@@ -51,6 +63,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Lasagne](http://lasagne.readthedocs.io/en/latest/user/tutorial.html)
 + [Caffe](http://caffe.berkeleyvision.org/tutorial/)
 + [Tensorflow](https://www.tensorflow.org/versions/r0.9/tutorials/index.html)
++ [Keras](https://github.com/jocicmarko/ultrasound-nerve-segmentation) Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras 
 
 ### Courses
 + [Stanford](http://cs231n.stanford.edu/syllabus.html)
@@ -58,6 +71,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 + [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 + [Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 + [Udacity Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
++ [Bargava from Cisco systems](https://github.com/rouseguy/scipyUS2016_dl-image)
 
 ### Videos
 + [Hugo Larochelle's Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -72,3 +86,4 @@ This is a group of researchers study deep learning for computer vision, medical 
 ### Blogs
 + [Hacker News for Data Science](http://www.datatau.com/news)
 + [i am trusk](http://iamtrask.github.io/)
++ [Colin Morris](https://colinmorris.github.io/)
