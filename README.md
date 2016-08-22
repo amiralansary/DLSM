@@ -34,7 +34,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 * Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ### Week-06
-* Assignment #1 (2-Layer Net) [[link]](https://github.com/amiralansary/DLSG/blob/master/assignments/two_layer_net.ipynb)
+* Assignment #1 (2-Layer Net) [[link]](https://github.com/amiralansary/DLSG/blob/master/code/stanford_course_cs231n/assignment1/two_layer_net.ipynb)
 * Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
 
 ### Week-07
