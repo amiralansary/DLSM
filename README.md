@@ -1,5 +1,5 @@
 # DLSG
-## Deep Learning Study Group
+**Deep Learning Study Group**
 
 Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Enzo Ferrante](https://github.com/eferrante), [Amir Alansary](https://github.com/amiralansary)
 
