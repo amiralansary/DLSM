@@ -6,8 +6,10 @@ Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](ht
 This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
 
 
+_________________________________________________________________________
 
-## Scheduled Meetings
+## Convolutional Neural Networks Basics
+For a better understanding and applying deep learning in computer vision, we follow [Stanford course](http://cs231n.stanford.edu/syllabus.html) in the first weeks below:
 
 ### Week-01
 * Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf) [[video]](https://youtu.be/2uiulzZxmGg?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
@@ -45,6 +47,7 @@ This is a group of researchers study deep learning for computer vision, medical 
 * Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
 * Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
 
+________________________________________________________________________________________________________
 
 ## Useful Links for Deep Learning 
 
