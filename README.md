@@ -1,12 +1,11 @@
 # DLSG
-Deep Learning Study Group
+## Deep Learning Study Group
 
 Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Enzo Ferrante](https://github.com/eferrante), [Amir Alansary](https://github.com/amiralansary)
 
 This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
 
-
-_________________________________________________________________________
+___
 
 ## Convolutional Neural Networks Basics
 For a better understanding and applying deep learning in computer vision, we follow [Stanford course](http://cs231n.stanford.edu/syllabus.html) in the first weeks below:
@@ -47,7 +46,7 @@ For a better understanding and applying deep learning in computer vision, we fol
 * Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
 * Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
 
-________________________________________________________________________________________________________
+___
 
 ## Useful Links for Deep Learning 
 
