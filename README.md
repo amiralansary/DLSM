@@ -40,7 +40,7 @@ For a better understanding and applying deep learning in computer vision, we fol
 
 ### Week-07
 * Assignment #2 (Fully-connected Neural Network/Batch Normalization/Dropout) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
-* [Extra] Batch normalization backpropagation [[link]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+* [Extra] Batch normalization backpropagation [[link1]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[link2]](http://cthorey.github.io./backpropagation/)
 
 ### Week-08
 * Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
