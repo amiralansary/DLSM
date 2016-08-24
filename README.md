@@ -77,6 +77,7 @@ ___
 + [Bargava from Cisco systems](https://github.com/rouseguy/scipyUS2016_dl-image)
 
 ### Videos
++ [Deep Learning Summer School (DLSS), Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 + [Hugo Larochelle's Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 + [Nando de Freitas's Youtube](https://www.youtube.com/playlist?list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
 + [CS231 Winter 2016 All Youtube](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
