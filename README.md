@@ -56,6 +56,7 @@ ___
 + [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 + [Deeplearning.net](http://deeplearning.net/)
 + [Deep learning nature article](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
++ [CVIT summer school resources](http://cvit.iiit.ac.in/summerschool/resources.html)
 
 ### Libraries
 + [Software links](http://deeplearning.net/software_links/)
