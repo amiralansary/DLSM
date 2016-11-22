@@ -6,7 +6,7 @@ ___
 
 ## Convolutional Neural Networks Basics
 
-[Stanford course](http://cs231n.stanford.edu/syllabus.html) in the first weeks below:
+[Stanford course](http://cs231n.stanford.edu/syllabus.html)
 
 ### 01
 * Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf) [[video]](https://youtu.be/2uiulzZxmGg?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
@@ -43,13 +43,16 @@ ___
 ### 08
 * Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
 * Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
-___
+
+---
 
 ## Tensorflow Tutorials
 * tensorflow [[ppt]](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 * tensorflow for begginers [[link1]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html) [[link2]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/index.html)
 * tensorflow examples and notebook [[link1]](https://github.com/aymericdamien/TensorFlow-Examples) [[link2]](https://github.com/nlintz/TensorFlow-Tutorials)
-___
+
+---
+
 ## Useful Links for Deep Learning 
 
 ### Important Links
