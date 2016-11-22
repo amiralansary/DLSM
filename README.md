@@ -1,53 +1,55 @@
-# DLSG
-**Deep Learning Study Group**
+# DLSM
+**Deep Learning Study Material**
 
-Members - [Antoine Toisoul](https://github.com/antoinetlc), [Giacomo Tarroni](https://github.com/gtarroni), [Mohamed Elmikaty](https://github.com/melmikaty), [Enzo Ferrante](https://github.com/eferrante), [Amir Alansary](https://github.com/amiralansary)
-
-This is a group of researchers study deep learning for computer vision, medical imaging, and computer graphics. Here we define the scheduled dates and material for the regular (weekly) meetings. The main goal is to discuss and exchange ideas and information about a specific subject from deep learning related to our research.
-
+Deep learning study material that can used for computer vision and medical imaging analysis.
 ___
 
 ## Convolutional Neural Networks Basics
-For a better understanding and applying deep learning in computer vision, we follow [Stanford course](http://cs231n.stanford.edu/syllabus.html) in the first weeks below:
 
-### Week-01
+[Stanford course](http://cs231n.stanford.edu/syllabus.html) in the first weeks below:
+
+### 01
 * Intro to Computer Vision, historical context [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture1.pdf) [[video]](https://youtu.be/2uiulzZxmGg?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 * Image classification, k-nearest neighbor, and linear classification [[slides]](http://cs231n.stanford.edu/slides/winter1516_lecture2.pdf) [[video]](https://youtu.be/ngXbD21b4qk?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 	* Image classification [[notes]](http://cs231n.github.io/classification/)
 	* Linear classification [[notes]](http://cs231n.github.io/linear-classify/)
 
-### Week-02
+### 02
 * Optimization, stochastic gradient descent [[notes]](http://cs231n.github.io/optimization-1) [[video]](https://youtu.be/i1gGsE66b5s?list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B)
 
-### Week-03
+### 03
 * Python/numpy tutorial [[link]](http://cs231n.github.io/python-numpy-tutorial/)
 * Assignment #1 (kNN/SVM/Softmax) [[link]](http://cs231n.github.io/assignments2016/assignment1/)
 * [Extra] Style Guide for Python Code [[link]](https://www.python.org/dev/peps/pep-0008/)
 * [Extra] Kevin Keraundren's Tutorial for Python and Medical Image Analysis [[link]](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
 
-### Week-04
+### 04
 * Backpropagation and Introduction to neural networks [[notes]](http://cs231n.github.io/optimization-2/) [[video]](https://www.youtube.com/watch?v=59Hbtz7XgjM&list=PLrZmhn8sSgye6ijhLzIIXiU9GNaIwbF8B&index=4)
 * Neural Networks Part 1 [[notes]](http://cs231n.github.io/neural-networks-1/)
 * [Extra] Backpropagation MIT lecture [[video]](https://www.youtube.com/watch?v=q0pm3BrIUFo)
 
-### Week-05
+### 05
 * Neural network part-II  -- setting up the data and the model [[notes]](http://cs231n.github.io/neural-networks-2/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 * Neural network part-III -- learning the network [[notes]](http://cs231n.github.io/neural-networks-3/) [[video]](https://www.youtube.com/watch?v=KaR4lIdI1MQ&index=6&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
-### Week-06
+### 06
 * Assignment #1 (2-Layer Net) [[link]](https://github.com/amiralansary/DLSG/blob/master/code/stanford_course_cs231n/assignment1/two_layer_net.ipynb)
 * Neural network case study [[link]](http://cs231n.github.io/neural-networks-case-study/)
 
-### Week-07
+### 07
 * Assignment #2 (Fully-connected Neural Network/Batch Normalization/Dropout) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
 * [Extra] Batch normalization backpropagation [[link1]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[link2]](http://cthorey.github.io./backpropagation/)
 
-### Week-08
+### 08
 * Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
 * Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
-
 ___
 
+## Tensorflow Tutorials
+* tensorflow [[ppt]](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+* tensorflow for begginers [[link1]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html) [[link2]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/index.html)
+* tensorflow examples and notebook [[link1]](https://github.com/aymericdamien/TensorFlow-Examples) [[link2]](https://github.com/nlintz/TensorFlow-Tutorials)
+___
 ## Useful Links for Deep Learning 
 
 ### Important Links
