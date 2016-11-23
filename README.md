@@ -1,7 +1,8 @@
 # DLSM
 **Deep Learning Study Material**
 
-Deep learning study material that can used for computer vision and medical imaging analysis.
+Here you can find deep learning material that are related to computer vision and medical imaging analysis.
+
 ___
 
 ## Convolutional Neural Networks Basics
