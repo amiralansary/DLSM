@@ -51,6 +51,7 @@ ___
 * tensorflow [[ppt]](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 * tensorflow for begginers [[link1]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html) [[link2]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/index.html)
 * tensorflow examples and notebook [[link1]](https://github.com/aymericdamien/TensorFlow-Examples) [[link2]](https://github.com/nlintz/TensorFlow-Tutorials)
+* tensorflow presentation [[link]](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 
 ---
 
