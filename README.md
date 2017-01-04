@@ -42,7 +42,7 @@ ___
 * [Extra] Batch normalization backpropagation [[link1]](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) [[link2]](http://cthorey.github.io./backpropagation/)
 
 ### 08
-* Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/)
+* Convolutional Neural Networks: architectures, convolution / pooling layers [[notes]](http://cs231n.github.io/convolutional-networks/) [[video]](https://www.youtube.com/watch?v=V8JDMkARdfU&index=7&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 * Assignment #2 (ConvNet on CIFAR-10) [[link]](http://cs231n.github.io/assignments2016/assignment2/)
 
 ---
