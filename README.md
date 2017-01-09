@@ -49,7 +49,8 @@ ___
 
 ## Reinforcement Learning
 * UCL DeepMind course [[link]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* Sutton's Book "Reinforcement Learning:An Introduction" [[1st edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-1st.html) [[2nd edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+* "Reinforcement Learning:An Introduction" Sutton et al. [[1st edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-1st.html) [[2nd edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+* "Algorithms for Reinforcement Learning" Szepesv´ari [[book]](https://sites.ualberta.ca/~szepesva/RLBook.html)
 
 ---
 
