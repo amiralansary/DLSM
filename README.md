@@ -47,6 +47,11 @@ ___
 
 ---
 
+## Reinforcement Learning
+* UCL DeepMind course [[link]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+---
+
 ## Tensorflow Tutorials
 * tensorflow [[ppt]](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 * tensorflow for begginers [[link1]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html) [[link2]](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/index.html)
