@@ -51,6 +51,7 @@ ___
 * UCL DeepMind course [[link]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * "Reinforcement Learning:An Introduction" Sutton et al. [[1st edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-1st.html) [[2nd edition]](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 * "Algorithms for Reinforcement Learning" Szepesv´ari [[book]](https://sites.ualberta.ca/~szepesva/RLBook.html)
+* Simple article about rl [[link]](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
 
 ---
 
@@ -61,7 +62,6 @@ ___
 * tensorflow presentation [[link]](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 * dive-into-tensorflow-part-v-deep-mnist [[link]](http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist)
 * Reinforcement Learning Tutorial [[link]](http://outlace.com/Reinforcement-Learning-Part-1/)
-* simple article about rl [[link]](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
 
 ---
 
