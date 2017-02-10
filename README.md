@@ -61,6 +61,7 @@ ___
 * tensorflow presentation [[link]](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 * dive-into-tensorflow-part-v-deep-mnist [[link]](http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist)
 * Reinforcement Learning Tutorial [[link]](http://outlace.com/Reinforcement-Learning-Part-1/)
+* simple article about rl [[link]](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
 
 ---
 
